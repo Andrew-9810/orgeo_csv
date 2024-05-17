@@ -154,3 +154,4 @@ dmypy.json
 cython_debug/
 
 input_file/
+output_file/
